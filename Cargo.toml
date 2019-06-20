@@ -1,0 +1,4 @@
+[workspace]
+members=[
+    "started_01_hello_world"
+]
