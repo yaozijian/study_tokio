@@ -1,4 +1,5 @@
 [workspace]
 members=[
-    "started_01_hello_world"
+    "started_01_hello_world",
+    "started_02_echo_server",
 ]
