@@ -117,6 +117,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "future_02_be_async"
+version = "0.1.0"
+dependencies = [
+ "bytes 0.4.12 (registry+https://github.com/rust-lang/crates.io-index)",
+ "futures 0.1.27 (registry+https://github.com/rust-lang/crates.io-index)",
+ "tokio 0.1.21 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "futures"
 version = "0.1.27"
 source = "registry+https://github.com/rust-lang/crates.io-index"

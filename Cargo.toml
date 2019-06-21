@@ -2,5 +2,6 @@
 members=[
     "started_01_hello_world",
     "started_02_echo_server",
-    "future_01_hello_world"
+    "future_01_hello_world",
+    "future_02_be_async"
 ]

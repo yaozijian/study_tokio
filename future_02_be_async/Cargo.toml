@@ -1,0 +1,12 @@
+[package]
+name = "future_02_be_async"
+version = "0.1.0"
+authors = ["姚子建 <yaozijian110@126.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+futures = "0.1.27"
+tokio = "0.1.21"
+bytes = "0.4.12"
